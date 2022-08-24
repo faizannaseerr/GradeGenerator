@@ -1,4 +1,4 @@
-# Grade Generator
+# Grade Generator 📚🧠
 
 A rudimentary support program in python for teachers used to generate student grades via analysis of past student performance in class and exams. 
 
