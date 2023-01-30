@@ -13,3 +13,6 @@ A rudimentary support program in python for teachers used to generate student gr
 2. Based on criteria for grades & physical evidence, a grade between A-F is generated for the teacher to give out.
 
 3. Student information is stored in text files, via file reading, writing, etc.
+
+## Running The Program
+
