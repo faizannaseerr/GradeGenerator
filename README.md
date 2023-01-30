@@ -16,3 +16,4 @@ A rudimentary support program in python for teachers used to generate student gr
 
 ## Running The Program
 
+Files named [main](https://github.com/faizannaseerr/GradeGenerator/blob/main/main.py), [Student](), [Evidence](), and []() should be downloaded and then ran as usual for any python program (either through an IDE, or through the terminal/CMD from the same directory as where file is downloaded)
